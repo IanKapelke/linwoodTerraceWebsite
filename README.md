@@ -1,1 +1,1 @@
-# rails web application to advertise Linwood Terrace
+# Rails web application to advertise Linwood Terrace
